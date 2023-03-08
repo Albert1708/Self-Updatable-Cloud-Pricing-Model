@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Self_Updatable_Cloud_Pricing_Model
+build_property.RootNamespace = Self_Updatable_Cloud_Pricing_Model
+build_property.ProjectDir = D:\Uni Bamberg Study\Thesis-DSG\Implementaion\Self-Updatable-Cloud-Pricing-Model\Self-Updatable-Cloud-Pricing-Model\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Uni Bamberg Study\Thesis-DSG\Implementaion\Self-Updatable-Cloud-Pricing-Model\Self-Updatable-Cloud-Pricing-Model
+build_property._RazorSourceGeneratorDebug = 

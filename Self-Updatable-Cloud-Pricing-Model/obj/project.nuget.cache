@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1L8zAfXFp/REHyLEKRtoxY21orTaKfkS+x2k4WYD3Wt65SoNhIobA1zWmfMElswnHotBCG5zygDF1xlzgCfE4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Uni Bamberg Study\\Thesis-DSG\\Implementaion\\Self-Updatable-Cloud-Pricing-Model\\Self-Updatable-Cloud-Pricing-Model\\Self-Updatable-Cloud-Pricing-Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Albert Rozario\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
